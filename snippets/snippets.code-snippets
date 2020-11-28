@@ -1,0 +1,9 @@
+{
+    "Javascript React Starter Template": {
+        "prefix": "!start",
+        "body": [
+            "export const ${1:Name} = () = {};"
+        ],
+        "description": "React starter template"
+    }
+}
